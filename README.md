@@ -9,7 +9,7 @@ Old Github Link: https://burnedpopcorn.github.io/Swabs-Expedition-Web-Port/
 Compiled Web Builds and Source Code is in the Releases Tab
 
 > [!NOTE]
-> You can CLone this Repo, but it will only give you the Compiled Build of the Initial Release
+> You can Clone this Repo, but it will only give you the Compiled Build of the Initial Release
 
 ## Thanks to
 - voidymite, for allowing me to make this Web Port
