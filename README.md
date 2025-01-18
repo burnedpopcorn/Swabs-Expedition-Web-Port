@@ -1,7 +1,7 @@
 # Swab's Expedition Web Port
 A port of Swab's Expedition to the Web Browser
 
-Current Link: https://www.autistici.org/burnedprojects/swabsexped_r1/runner.html
+Current Link: https://www.autistici.org/burnedprojects/SwabsExpedition/
 
 ## Downloads
 Compiled Web Builds and Source Code is in the Releases Tab
